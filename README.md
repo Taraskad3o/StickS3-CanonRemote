@@ -6,6 +6,10 @@ This project implements the proprietary Canon BR-E1 BLE protocol, features an op
 
 ---
 
+<p align="center">
+  <img src="photo_2026-10-31_22-05-46.jpg" width="500" alt="StickS3 Canon Remote">
+</p>
+
 ## Features
 
 - **Instant Reconnect:** Wake-on-demand command execution without long blocking delays on startup.
